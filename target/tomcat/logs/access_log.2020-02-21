@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:41:37 +0530] "GET /wservice HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:41:38 +0530] "GET /wservice/ HTTP/1.1" 200 57 http-bio-8080-exec-3 724
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:00:41:38 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:01:09:50 +0530] "GET /springrest/cutomers HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:01:10:55 +0530] "GET /springrest/ HTTP/1.1" 404 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:01:10:57 +0530] "GET /springrest/ HTTP/1.1" 404 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:01:11:06 +0530] "GET /springtest/ HTTP/1.1" 404 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [21/Feb/2020:01:11:15 +0530] "GET /springrest/ HTTP/1.1" 404 - http-bio-8080-exec-9 0

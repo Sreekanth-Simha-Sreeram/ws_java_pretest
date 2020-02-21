@@ -1,0 +1,5 @@
+com\test\dao\customerDao.class
+com\test\wservice\AppInitializer.class
+com\test\wservice\AppConfig.class
+com\test\controller\CustomerRestController.class
+com\test\model\Customer.class
